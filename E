@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samanda123/Dupepro/main/Dupepro"))()
+
+
+pets go script
